@@ -1,4 +1,4 @@
 # Paradox
-##Paradox detection in data for knowledge discovery.
+## Paradox detection in data for knowledge discovery.
 
 In this work we examine Paradox detection as a method to reveal potentially interesting patterns or associations within the data mining process. A paradox is a statement or a set of facts that appear contradictory and will arouse interest and curiosity. A paradox in data analysis might occur when examining associations in data using cross-tabulation, the analyst might encounter strange results when associations observed from two different perspectives of the same dataset may provide different conclusions. This effect usually causes issues for the data analyst as they may have difficulty in determining the correct interpretation of the data, assuming they are aware of the discrepancy. This study advances our current understanding of Simpson's and Berkson's Paradox beyond the known, trivial datasets and we discover it is more prevalent in data than originally suspected. We integrate the paradox algorithms into the Tableau Business Intelligence software to aid analysis and decision support.
